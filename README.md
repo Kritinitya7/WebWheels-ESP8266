@@ -1,4 +1,3 @@
-# WebWheels-ESP8266
 # WebWheels – Wi-Fi Controlled RC Car Using ESP8266
 
 ## Overview
